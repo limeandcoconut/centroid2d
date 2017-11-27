@@ -1,0 +1,21 @@
+{
+  "name": "centroid2d",
+  "version": "1.0.0",
+  "description": "A package to find the area weighted center of a convex polygon whose mass is evenly distributed across the surface.",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/limeandcoconut/centroid2d"
+  },
+  "keywords": [
+    "centroid",
+    "center",
+    "polygon",
+    "convex"
+  ],
+  "author": "limeandcoconut",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
