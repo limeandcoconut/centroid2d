@@ -18,7 +18,6 @@ module.exports = (vertices) => {
         vertex0 = vertices[i]
         vertex1 = vertices[i + 1]
 
-        // vertices.forEach((vertex0, index) => {
         x0 = vertex0[0]
         y0 = vertex0[1]
         x1 = vertex1[0]

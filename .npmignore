@@ -1,4 +1,14 @@
-node_modules
-test
+.babelrc
+.ds_store
+.nyc_output
 
-npm-debug.log
+*.log
+npm_debug.*
+
+test.js
+webpack.config.js
+
+tests
+src
+coverage
+node_modules
