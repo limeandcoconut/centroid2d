@@ -29,7 +29,7 @@ module.exports = (vertices) => {
         centroidY += (y0 + y1) * a
     }
 
-    // Do last vertex separately for efficiencies sake
+    // Do last vertex separately for efficiency's sake
     x0 = vertices[vertices.length - 1][0]
     y0 = vertices[vertices.length - 1][1]
     x1 = vertices[0][0]
