@@ -22,7 +22,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "chai": "^4.2.0",
     "nyc": "^15.1.0",
     "tap-nyan": "^1.1.0",
